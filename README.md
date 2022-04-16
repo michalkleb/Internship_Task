@@ -7,4 +7,4 @@ Program starts with parameters:
 - column_name
 - join type
 
-Repository contains also the file with unit tests.
+Repository contains also the file with unit tests and the source code.
